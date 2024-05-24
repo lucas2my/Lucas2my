@@ -1,4 +1,11 @@
-## Hi there 👋
+## **Seja bem vindo** 😊
+
+### Sou aluno da _Alura_ e aqui você verá meus projetos
+
+### Meu e-mail 📧
+- 00001085622125sp@al.educacao.sp.gov.br
+
+  ![](https://media.tenor.com/4e3Gh3RIy3sAAAAM/surprised-ryan-reynolds.gif)
 
 <!--
 **lucas2my/Lucas2my** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
